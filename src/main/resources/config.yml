@@ -1,3 +1,10 @@
-# Auto Generated config.yml
+# Auto Generated Config.yml
 # Created/Protected by tomudding
 # Date: 12-7-2014 11:23 AM
+# Some options that can be Edited
+
+# Amount Energy Units for Charge
+Charge-Units: 8
+
+# Amount Energy Units for Furnace
+Furnace-Units: 6
