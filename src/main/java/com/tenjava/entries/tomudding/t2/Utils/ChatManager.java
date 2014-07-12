@@ -8,7 +8,7 @@ public class ChatManager {
 	
   private static ChatManager ins = new ChatManager();
 
-  public String prefix = "&7[&cEnergy&7] ";
+  public String prefix = (ChatColor.GRAY + "[" + ChatColor.RED + "Energy" + ChatColor.GRAY + "] ");
 
   public static ChatManager get() {
     return ins;
