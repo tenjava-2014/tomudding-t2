@@ -26,4 +26,10 @@ Crafting
 ![Nothing](http://soisialnoes.comoj.com//img/tomudding_asdkjahudfwjaenflaisd/Crafting%20Recipe.png)
 - __Needed Items:__ 6 Furnaces, 2 Magma Creams and 1 Eye of Ender.
 
+Things I didn't do
+------------------
+- I forgot to make Minecarts/Boats/Furnaces which use Energy Units
+- Commands to remove/set/add Energy Units to players
+- :(, Parents are not nice sometimes
+
 <!-- Hi, other peoples! I have edited this :D -->
