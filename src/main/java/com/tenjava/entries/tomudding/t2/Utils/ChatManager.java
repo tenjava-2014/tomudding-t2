@@ -8,7 +8,7 @@ public class ChatManager {
 	
   private static ChatManager ins = new ChatManager();
 
-  public String prefix = "&7[&cten.Java Plugin&7] ";
+  public String prefix = "&7[&cEnergy&7] ";
 
   public static ChatManager get() {
     return ins;
