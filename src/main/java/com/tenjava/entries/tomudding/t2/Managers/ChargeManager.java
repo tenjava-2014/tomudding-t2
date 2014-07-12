@@ -96,4 +96,19 @@ public class ChargeManager {
 	  }
 	  saveData();
 	}
+	
+	
+	/*
+	 * Remove 'X' amount to the Charge of a Player
+	 */
+	public void removeCharge(Player player, int i) {
+	  String p = player.getName();
+	  int o = this.getCharge(player);
+	  if(o - i < 0) {
+		this.data.set(p, 0);
+	  } else {
+	    this.data.set(p, o - i);
+	  }
+	  saveData();
+	}
 }
