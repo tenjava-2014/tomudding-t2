@@ -22,7 +22,6 @@ public class PlayerListener implements Listener {
 		this.tenJava = tenJava;
 	}
 
-	
 	/*
 	 * Player Join
 	 */
