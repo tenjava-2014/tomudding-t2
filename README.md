@@ -18,7 +18,7 @@ This is a submission for the 2014 ten.java contest.
 Features
 --------
 
-- __Energy Orb:__ Can store up to 100 Enery Units.
+- __Energy Orb:__ Can store up to 100 Energy Units.
 - __Furnace:__ Standard Minecraft Furnace is used to generate power. When you have your Energy Orb in your hand (Selected in hotbar) and standing on a burning furnace it will slowly charge the Energy Orb up to 100 Energy Units.
 
 Crafting
