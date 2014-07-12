@@ -41,7 +41,7 @@ public class PlayerListener implements Listener {
 	@EventHandler
 	public void checkBlock(final PlayerMoveEvent event) {
 		final Player player = event.getPlayer();
-		final int i = 8;
+		final int i = tenJava.FurnaceAmount;
 		Block block = player.getLocation().getBlock().getRelative(BlockFace.DOWN);
 		
 		if(block.getType() == Material.BURNING_FURNACE) {
