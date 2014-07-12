@@ -14,22 +14,14 @@ This is a submission for the 2014 ten.java contest.
 
 ---------------------------------------
 
-Compilation
------------
+Features
+--------
 
-- Download & Install [Maven 3](http://maven.apache.org/download.html)
-- Clone the repository: `git clone https://github.com/tenjava/tomudding-t2`
-- Compile and create the plugin package using Maven: `mvn`
+- __Energy Orb:__ Can store up to 100 Enery Units.
+- __Furnace:__ Standard Minecraft Furnace is used to generate power. When you have your Energy Orb in your hand (Selected in hotbar) and standing on a burning furnace it will slowly charge the Energy Orb up to 100 Energy Units.
 
-Maven will download all required dependencies and build a ready-for-use plugin package!
-
----------------------------------------
-
-Usage
------
-
-1. Install plugin
-2. Do things with it
-
-<!-- Hi, tomudding! This is the default README for every ten.java submission. -->
-<!-- We encourage you to edit this README with some information about your submission – keep in mind you'll be scored on documentation! -->
+Crafting
+--------
+[(http://soisialnoes.comoj.com//img/tomudding_asdkjahudfwjaenflaisd/Crafting%20Recipe.png)]
+__Needed Items:__ 6 Furnaces, 2 Magma Creams and 1 Eye of Ender.
+<!-- Hi, other peoples! I have edited this :D -->
